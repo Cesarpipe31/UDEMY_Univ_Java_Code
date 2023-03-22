@@ -5,7 +5,11 @@ public class HolaMundo {
         miVariableEntera = 5;
         System.out.println(miVariableEntera);
 
-        String miVariableCadena = "Cesar Augusto Delgado Alvarado";
+        String miVariableCadena = "Cesar Augusto Delgado Alvarado";        
         System.out.println(miVariableCadena);
+        
+        miVariableCadena = "Adios";
+        System.out.println(miVariableCadena);
+                
     }    
 }
