@@ -35,5 +35,6 @@ public class HolaMundo {
         var i = 3;
         var j = 4;
         System.out.println(i + j);
+        System.out.println(usuario + i + j + usuario);
     }    
 }
