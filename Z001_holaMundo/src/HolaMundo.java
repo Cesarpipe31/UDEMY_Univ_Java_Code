@@ -10,6 +10,10 @@ public class HolaMundo {
         
         miVariableCadena = "Adios";
         System.out.println(miVariableCadena);
+        
+        var miVariableEntera2 = 10;
+        System.out.println(miVariableEntera2);
+        
                 
     }    
 }
