@@ -14,6 +14,7 @@ public class HolaMundo {
         var miVariableEntera2 = 10;
         System.out.println(miVariableEntera2);
         
-                
+        var miVariableCadena2 ="Nuevo mensaje";
+        System.out.println("Mi variable de cadena 2 es: " + miVariableCadena2);
     }    
 }
