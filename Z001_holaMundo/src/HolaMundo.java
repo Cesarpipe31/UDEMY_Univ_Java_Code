@@ -26,6 +26,11 @@ public class HolaMundo {
         System.out.println(_miVariable);
         System.out.println($miVariable);
         System.out.println(áVariable);
+        
+        var usuario = "Cesar";
+        var titulo = "Ingeniero";
+        var union = titulo + " " + usuario;
+        System.out.println("Union = " + union);
        
     }    
 }
