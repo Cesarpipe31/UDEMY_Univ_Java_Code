@@ -31,6 +31,9 @@ public class HolaMundo {
         var titulo = "Ingeniero";
         var union = titulo + " " + usuario;
         System.out.println("Union = " + union);
-       
+        
+        var i = 3;
+        var j = 4;
+        System.out.println(i + j);
     }    
 }
