@@ -7,7 +7,7 @@ public class ConversionTipos {
         System.out.println("edad: " + (edad + 1));
         
         var edad1 = "20";
-        System.out.println("edad: " + (edad + 1));
+        System.out.println("edad otra: " + (edad1 + 1));
         
         var valorPi = Double.parseDouble("3.1416");
         System.out.println("Valor Pi: " + valorPi);
