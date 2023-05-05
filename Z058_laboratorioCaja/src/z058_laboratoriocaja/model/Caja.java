@@ -5,7 +5,7 @@ public class Caja {
     private int ancho;
     private int profundo;
     private int alto;
-    
+        
 
     public Caja() {
         System.out.println("Ejecutando constructor vacío");
@@ -14,7 +14,7 @@ public class Caja {
     public Caja(int ancho, int profundo, int alto) {
         this.ancho = ancho;
         this.profundo = profundo;
-        this.alto = alto;
+        this.alto = alto;        
     }
 
    public int getAncho(){
@@ -40,7 +40,7 @@ public class Caja {
    public void setAlto(int alto){
        this.alto = alto;
    }
-
+   
     @Override
     public String toString() {
         StringBuilder sb = new StringBuilder();
