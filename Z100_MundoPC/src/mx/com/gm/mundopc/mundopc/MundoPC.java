@@ -16,8 +16,10 @@ public class MundoPC {
         Computadora computadoraGamer = new Computadora("Computadora Gamer", monitorGamer, tecladoGamer, ratonGamer);
         
         Orden orden1 = new Orden();
-        orden1.agregarcomputadora(computadoraHP);
+        
         orden1.agregarcomputadora(computadoraGamer);
+        orden1.agregarcomputadora(computadoraHP);
+        
         
         orden1.mostrarOrden();
         
